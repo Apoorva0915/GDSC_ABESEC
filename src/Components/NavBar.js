@@ -20,7 +20,7 @@ function NavBar() {
                     <Link to="/">
                         <li>Home</li>
                     </Link>
-                    <a href="/team">
+                    <a href="https://abesec-gdsc.netlify.app/#team" rel="noreferrer" target='_blank'>
                         <li>Team</li>
                     </a>
                     <Link to='/technologies'>
@@ -29,7 +29,7 @@ function NavBar() {
                     <Link to='/projects'>
                         <li>Projects</li>
                     </Link>
-                    <a href="https://gdsc.community.dev/events/#/list">
+                    <a href="https://gdsc.community.dev/events/#/list" rel="noreferrer" target='_blank'>
                         <li>Events</li>
                     </a>
 

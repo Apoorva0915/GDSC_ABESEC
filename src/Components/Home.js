@@ -106,12 +106,13 @@ background:url("/Images/1516859123612.jpeg")no-repeat ;
 background-size: 100% 100%;
 height:60vh;
 width:100%;
-// margin-top:-80px;
+padding:10px;
+// margin-top:10px;
 h2{
     text-align:center;
     font-size:2rem;
     max-width: 47%;
-    margin: auto;
+    margin: 10px auto;
     
 }
 h3{

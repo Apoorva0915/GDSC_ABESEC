@@ -6,8 +6,8 @@ function About() {
       <Container id='about'>
             <Body>
                <Heading>
-                  <h3>Google Developer Student Clubs</h3>
-                  <h3><strong>ABES Engineering College</strong></h3>
+                  <h2>Google Developer Student Clubs</h2>
+                  <h2><strong>ABES Engineering College</strong></h2>
                </Heading>
                <p>Google Developer Student Clubs Are University Based Community Groups For Students Interested In Google Developer Technologies. Students From All Undergraduate Or Graduate Programs With An Interest In Growing As A Developer Are Welcome. By Joining A GDSC, Students Grow Their Knowledge In A Peer-To-Peer Learning Environment And Build Solutions For Local Businesses And Their Community.
                <ul>
@@ -53,6 +53,7 @@ margin:10px 0;
 const Heading = styled.div`
    h2{
       padding: 2px;
+      font-size:2rem;
    }
 `;
 

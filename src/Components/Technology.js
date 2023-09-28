@@ -9,7 +9,7 @@ const Technology = () => {
             <ul className="outer">
                 <li className="inner"><img src="/Images/download.png" alt="" />
                     <h3 className="text-gray">Machine Learning</h3></li>
-                    <li classNameName="inner"><img src="/Images/download (1).png" alt="" />
+                    <li className="inner"><img src="/Images/download (1).png" alt="" />
                     <h3 className="text-gray">Web Developement</h3></li>
                     <li className="inner">
                     <img src="/Images/download (2).png" alt="" />
